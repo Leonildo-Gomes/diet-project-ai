@@ -43,7 +43,15 @@ Este repositório contém duas partes principais: o **Frontend (Web)** e o **Bac
 
 ## 🏁 Como Executar o Projeto
 
-Siga os passos abaixo para executar o projeto em seu ambiente local. Você precisará de dois terminais: um para o backend e um para o frontend.
+Siga os passos abaixo para executar o projeto em seu ambiente local.
+
+1.  **Clone o repositório:**
+    ```bash
+    git clone <https://github.com/Leonildo-Gomes/diet-project-ai.git>
+    cd dieta
+    ```
+
+Você precisará de dois terminais, um para o backend e outro para o frontend, abertos na pasta do projeto.
 
 ### Backend
 
