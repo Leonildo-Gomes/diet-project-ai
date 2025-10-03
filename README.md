@@ -10,7 +10,7 @@ Este repositório contém duas partes principais: o **Frontend (Web)** e o **Bac
 
 | Formulário (Desktop e Mobile) | Geração da Dieta | Plano Semanal |
 | :---: | :---: | :---: |
-| ![Formulário para inserção de dados do usuário - Desktop](./screen_shot/diet-form.jpeg) <br> ![Formulário para inserção de dados do usuário - Mobile](./screen_shot/diet_form_mobile.jpeg) | ![Tela de geração da dieta](./screen_shot/generate_diet.jpeg) | ![Exibição do plano de dieta semanal](./screen_shot/show_diet.jpeg) |
+| ![Formulário para inserção de dados do usuário - Desktop](./screen_shot/diet-form.jpeg) <br> ![Formulário para inserção de dados do usuário - Mobile](./screen_shot/diet_form_mobile.jpeg) | ![Exibição do plano de dieta semanal](./screen_shot/show_diet.jpeg) |
 
 ---
 
